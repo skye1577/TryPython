@@ -1,0 +1,9 @@
+person:
+  age: '15'
+  hobbies: reading
+  job: engineer
+  name: jason
+  skills:
+  - Python
+  - Data Analysis
+  - Machine Learning
